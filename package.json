@@ -1,0 +1,19 @@
+{
+  "name": "jsdoc-stability-tag",
+  "version": "1.0.0",
+  "description": "Adds stability tags to jsdoc.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brett19/jsdoc-stability-tag.git"
+  },
+  "author": "Brett Lawson <brett19@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brett19/jsdoc-stability-tag/issues"
+  },
+  "homepage": "https://github.com/brett19/jsdoc-stability-tag"
+}
